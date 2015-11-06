@@ -1,0 +1,1299 @@
+[[Image:Seal of the United States Supreme Court.svg|150px|right]]
+The 2007 term of the [[Supreme Court of the United States]] began October 1, 2007 and concluded September 30, 2008. The table illustrates which opinion was filed by each justice in each case and which justices joined each opinion.
+
+==Table key==
+
+{{SCOTUStablekey}}
+
+==2007 term opinions==
+{{SCOTUS-termlist-start|Roberts|Stevens|Scalia|Kennedy|Souter|Thomas|Ginsburg|Breyer|Alito}}
+{{SCOTUS-termlist-entry
+ |#=1
+ |case1=Board of Ed. of City School Dist. of New York v. Tom F.
+ |volume=552
+ |page=1
+ |decision-date=October 10, 2007
+ |note=<ref>The ''per curiam'' opinion in ''Board of Ed. of City School Dist. of New York v. Tom F.'' merely noted that the lower court's judgment was affirmed by an equally divided Court.</ref>
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--scalia-->
+ |justice4-opinion1=didnotparticipate |justice4-sortcode=X<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--souter-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--thomas-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--ginsburg-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=2
+ |case=Allen v. Siebert
+ |volume=552
+ |page=3
+ |decision-date=November 5, 2007
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=dissent |justice2-sortcode=4<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--souter-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--thomas-->
+ |justice7-opinion1=joindissent |justice7-sortcode=J4<!--ginsburg-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=3
+ |case=CSX Transp., Inc. v. Georgia State Bd. of Equalization
+ |volume=552
+ |page=9
+ |argue-date=November 5, 2007
+ |decision-date=December 4, 2007
+ |justice1-opinion1=majority |justice1-sortcode=1<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--souter-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--thomas-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--ginsburg-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=4
+ |case=Logan v. United States
+ |volume=552
+ |page=23
+ |argue-date=October 30, 2007
+ |decision-date=December 4, 2007
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--souter-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--thomas-->
+ |justice7-opinion1=majority |justice7-sortcode=1<!--ginsburg-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=5
+ |case=Gall v. United States
+ |volume=552
+ |page=38
+ |argue-date=October 2, 2007
+ |decision-date=December 10, 2007
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=majority |justice2-sortcode=1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-opinion2=concurrence1 |justice3-sortcode=2J1<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-opinion2=concurrence2 |justice5-sortcode=2J1<!--souter-->
+ |justice6-opinion1=dissent1 |justice6-sortcode=4<!--thomas-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--ginsburg-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--breyer-->
+ |justice9-opinion1=dissent2 |justice9-sortcode=4<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=6
+ |case=Watson v. United States
+ |volume=552
+ |page=74
+ |argue-date=October 9, 2007
+ |decision-date=December 10, 2007
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=majority |justice5-sortcode=1<!--souter-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--thomas-->
+ |justice7-opinion1=concurrence |justice7-sortcode=2<!--ginsburg-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=7
+ |case=Kimbrough v. United States
+ |volume=552
+ |page=85
+ |argue-date=October 2, 2007
+ |decision-date=December 10, 2007
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-opinion2=concurrence |justice3-sortcode=2J1<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--souter-->
+ |justice6-opinion1=dissent1 |justice6-sortcode=4<!--thomas-->
+ |justice7-opinion1=majority |justice7-sortcode=1<!--ginsburg-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--breyer-->
+ |justice9-opinion1=dissent2 |justice9-sortcode=4<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=8
+ |case=Arave v. Hoffman
+ |volume=552
+ |page=117
+ |decision-date=January 7, 2008
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--souter-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--thomas-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--ginsburg-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=9
+ |case=Wright v. Van Patten
+ |volume=552
+ |page=120
+ |decision-date=January 7, 2008
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=concurrence |justice2-sortcode=2<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--souter-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--thomas-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--ginsburg-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=10
+ |case=John R. Sand & Gravel Co. v. United States
+ |volume=552
+ |page=130
+ |argue-date=November 6, 2007
+ |decision-date=January 7, 2008
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=dissent1 |justice2-sortcode=4<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--souter-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--thomas-->
+ |justice7-opinion1=joindissent1 |justice7-opinion2=dissent2 |justice7-sortcode=4J4<!--ginsburg-->
+ |justice8-opinion1=majority |justice8-sortcode=1<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=11
+ |case=Stoneridge Investment Partners, LLC v. Scientific-Atlanta, Inc.
+ |volume=552
+ |page=148
+ |argue-date=October 9, 2007
+ |decision-date=January 15, 2008
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=dissent |justice2-sortcode=4<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--scalia-->
+ |justice4-opinion1=majority |justice4-sortcode=1<!--kennedy-->
+ |justice5-opinion1=joindissent |justice5-sortcode=J4<!--souter-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--thomas-->
+ |justice7-opinion1=joindissent |justice7-sortcode=J4<!--ginsburg-->
+ |justice8-opinion1=didnotparticipate |justice8-sortcode=X<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=12
+ |case=Knight v. Commissioner
+ |volume=552
+ |page=181
+ |argue-date=November 27, 2007
+ |decision-date=January 16, 2008
+ |justice1-opinion1=majority |justice1-sortcode=1<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--souter-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--thomas-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--ginsburg-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=13
+ |case=New York State Bd. of Elections v. Lopez Torres
+ |volume=552
+ |page=196
+ |argue-date=October 3, 2007
+ |decision-date=January 16, 2008
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-opinion2=concurrence1 |justice2-sortcode=2J1<!--stevens-->
+ |justice3-opinion1=majority |justice3-sortcode=1<!--scalia-->
+ |justice4-opinion1=concurrence2 |justice4-sortcode=2<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-opinion2=joinconcurrence1 |justice5-sortcode=J1J2<!--souter-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--thomas-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--ginsburg-->
+ |justice8-opinion1=joinmajority |justice8-opinion2=partjoinconcurrence2 |justice8-sortcode=J1J2X<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=14
+ |case=Ali v. Federal Bureau of Prisons
+ |volume=552
+ |page=214
+ |argue-date=October 29, 2007
+ |decision-date=January 22, 2008
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=joindissent1 |justice2-opinion2=joindissent2 |justice2-sortcode=J4J4<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--scalia-->
+ |justice4-opinion1=dissent1 |justice4-sortcode=4<!--kennedy-->
+ |justice5-opinion1=joindissent1 |justice5-sortcode=J4<!--souter-->
+ |justice6-opinion1=majority |justice6-sortcode=1<!--thomas-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--ginsburg-->
+ |justice8-opinion1=joindissent1 |justice8-opinion2=dissent2 |justice8-sortcode=4J1<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=15
+ |case=LaRue v. DeWolff, Boberg & Associates, Inc.
+ |volume=552
+ |page=248
+ |argue-date=November 26, 2007
+ |decision-date=February 20, 2008
+ |justice1-opinion1=concurrence1 |justice1-sortcode=2<!--roberts-->
+ |justice2-opinion1=majority |justice2-sortcode=1<!--stevens-->
+ |justice3-opinion1=joinconcurrence2 |justice3-sortcode=J2<!--scalia-->
+ |justice4-opinion1=joinconcurrence1 |justice4-sortcode=J2<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--souter-->
+ |justice6-opinion1=concurrence2 |justice6-sortcode=2<!--thomas-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--ginsburg-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=16
+ |case=Danforth v. Minnesota
+ |volume=552
+ |page=264
+ |argue-date=October 31, 2007
+ |decision-date=February 20, 2008
+ |justice1-opinion1=dissent |justice1-sortcode=4<!--roberts-->
+ |justice2-opinion1=majority |justice2-sortcode=1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--scalia-->
+ |justice4-opinion1=joindissent |justice4-sortcode=J4<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--souter-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--thomas-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--ginsburg-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=17
+ |case=Riegel v. Medtronic, Inc.
+ |volume=552
+ |page=312
+ |argue-date=December 4, 2007
+ |decision-date=February 20, 2008
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=partjoinmajority |justice2-opinion2=concurrence |justice2-sortcode=2J1X<!--stevens-->
+ |justice3-opinion1=majority |justice3-sortcode=1<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--souter-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--thomas-->
+ |justice7-opinion1=dissent |justice7-sortcode=4<!--ginsburg-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=18
+ |case=Preston v. Ferrer
+ |volume=552
+ |page=346
+ |argue-date=January 14, 2008
+ |decision-date=February 20, 2008
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--souter-->
+ |justice6-opinion1=dissent |justice6-sortcode=4<!--thomas-->
+ |justice7-opinion1=majority |justice7-sortcode=1<!--ginsburg-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=19
+ |case=Rowe v. New Hampshire Motor Transp. Assn.
+ |volume=552
+ |page=364
+ |argue-date=November 28, 2007
+ |decision-date=February 20, 2008
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=partjoinmajority |justice3-opinion2=concurrence1 |justice3-sortcode=2J1X<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--souter-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--thomas-->
+ |justice7-opinion1=concurrence2 |justice7-sortcode=2<!--ginsburg-->
+ |justice8-opinion1=majority |justice8-sortcode=1<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=20
+ |case=Sprint/United Management Co. v. Mendelsohn
+ |volume=552
+ |page=379
+ |argue-date=December 3, 2007
+ |decision-date=February 26, 2008
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--souter-->
+ |justice6-opinion1=majority |justice6-sortcode=1<!--thomas-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--ginsburg-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=21
+ |case=Federal Express Corp. v. Holowecki
+ |volume=552
+ |page=389
+ |argue-date=November 6, 2007
+ |decision-date=February 27, 2008
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joindissent |justice3-sortcode=J4<!--scalia-->
+ |justice4-opinion1=majority |justice4-sortcode=1<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--souter-->
+ |justice6-opinion1=dissent |justice6-sortcode=4<!--thomas-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--ginsburg-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=22
+ |case=Boulware v. United States
+ |volume=552
+ |page=421
+ |argue-date=January 8, 2008
+ |decision-date=March 3, 2008
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=majority |justice5-sortcode=1<!--souter-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--thomas-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--ginsburg-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=23
+ |case1=Warner-Lambert Co. v. Kent
+ |volume=552
+ |page=440
+ |decision-date=March 3, 2008
+ |note=<ref>The lower court's judgment in ''Warner-Lambert Co. v. Kent'' was affirmed by an equally divided Court.</ref>
+ |justice1-opinion1=didnotparticipate |justice1-sortcode=X<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--souter-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--thomas-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--ginsburg-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=24
+ |case=Washington State Grange v. Washington State Republican Party
+ |volume=552
+ |page=442
+ |argue-date=October 1, 2007
+ |decision-date=March 18, 2008
+ |justice1-opinion1=joinmajority |justice1-opinion2=concurrence |justice1-sortcode=2J1<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=dissent |justice3-sortcode=4<!--scalia-->
+ |justice4-opinion1=joindissent |justice4-sortcode=J4<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--souter-->
+ |justice6-opinion1=majority |justice6-sortcode=1<!--thomas-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--ginsburg-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-opinion2=joinconcurrence |justice9-sortcode=J1J2<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=25
+ |case=Snyder v. Louisiana
+ |volume=552
+ |page=472
+ |argue-date=December 4, 2007
+ |decision-date=March 19, 2008
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joindissent |justice3-sortcode=J4<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--souter-->
+ |justice6-opinion1=dissent |justice6-sortcode=4<!--thomas-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--ginsburg-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--breyer-->
+ |justice9-opinion1=majority |justice9-sortcode=1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=26
+ |case=Medellín v. Texas
+ |volume=552
+ |page=491
+ |argue-date=October 10, 2007
+ |decision-date=March 25, 2008
+ |justice1-opinion1=majority |justice1-sortcode=1<!--roberts-->
+ |justice2-opinion1=concurrence |justice2-sortcode=2<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=joindissent |justice5-sortcode=J4<!--souter-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--thomas-->
+ |justice7-opinion1=joindissent |justice7-sortcode=J4<!--ginsburg-->
+ |justice8-opinion1=dissent |justice8-sortcode=4<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=27
+ |case=Hall Street Associates, L. L. C. v. Mattel, Inc.
+ |volume=552
+ |page=576
+ |argue-date=November 7, 2007
+ |decision-date=March 25, 2008
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=dissent1 |justice2-sortcode=4<!--stevens-->
+ |justice3-opinion1=partjoinmajority |justice3-sortcode=J1X<!--scalia-->
+ |justice4-opinion1=joindissent1 |justice4-sortcode=J4<!--kennedy-->
+ |justice5-opinion1=majority |justice5-sortcode=1<!--souter-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--thomas-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--ginsburg-->
+ |justice8-opinion1=dissent2 |justice8-sortcode=4<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=28
+ |case=New Jersey v. Delaware
+ |volume=552
+ |page=597
+ |argue-date=November 27, 2007
+ |decision-date=March 31, 2008
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=partjoinmajority |justice2-opinion2=concurrencedissent |justice2-sortcode=3J1<!--stevens-->
+ |justice3-opinion1=dissent |justice3-sortcode=4<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--souter-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--thomas-->
+ |justice7-opinion1=majority |justice7-sortcode=1<!--ginsburg-->
+ |justice8-opinion1=didnotparticipate |justice8-sortcode=X<!--breyer-->
+ |justice9-opinion1=joindissent |justice9-sortcode=J4<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=29
+ |case=United States v. Clintwood Elkhorn Mining Co.
+ |volume=553
+ |page=1
+ |argue-date=March 24, 2008
+ |decision-date=April 15, 2008
+ |justice1-opinion1=majority |justice1-sortcode=1<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--souter-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--thomas-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--ginsburg-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=30
+ |case=MeadWestvaco Corp. v. Illinois Dept. of Revenue
+ |volume=553
+ |page=16
+ |argue-date=January 16, 2008
+ |decision-date=April 15, 2008
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--souter-->
+ |justice6-opinion1=joinmajority |justice6-opinion2=concurrence |justice6-sortcode=2J1<!--thomas-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--ginsburg-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--breyer-->
+ |justice9-opinion1=majority |justice9-sortcode=1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=31
+ |case=Baze v. Rees
+ |volume=553
+ |page=35
+ |argue-date=January 7, 2008
+ |decision-date=April 16, 2008
+ |justice1-opinion1=plurality |justice1-sortcode=1X<!--roberts-->
+ |justice2-opinion1=concurrence1 |justice2-sortcode=2<!--stevens-->
+ |justice3-opinion1=concurrence2 |justice3-opinion2=joinconcurrence3 |justice3-sortcode=2J2<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=joindissent |justice5-sortcode=J4<!--souter-->
+ |justice6-opinion1=joinconcurrence2 |justice6-opinion2=concurrence3 |justice6-sortcode=2J2<!--thomas-->
+ |justice7-opinion1=dissent |justice7-sortcode=4<!--ginsburg-->
+ |justice8-opinion1=concurrence4 |justice8-sortcode=2<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-opinion2=concurrence5 |justice9-sortcode=2J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=32
+ |case=Burgess v. United States
+ |volume=553
+ |page=124
+ |argue-date=March 24, 2008
+ |decision-date=April 16, 2008
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--souter-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--thomas-->
+ |justice7-opinion1=majority |justice7-sortcode=1<!--ginsburg-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=33
+ |case=Begay v. United States
+ |volume=553
+ |page=137
+ |argue-date=January 15, 2008
+ |decision-date=April 16, 2008
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=concurrence |justice3-sortcode=2<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=joindissent |justice5-sortcode=J4<!--souter-->
+ |justice6-opinion1=joindissent |justice6-sortcode=J4<!--thomas-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--ginsburg-->
+ |justice8-opinion1=majority |justice8-sortcode=1<!--breyer-->
+ |justice9-opinion1=dissent |justice9-sortcode=4<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=34
+ |case=Virginia v. Moore
+ |volume=553
+ |page=164
+ |argue-date=January 14, 2008
+ |decision-date=April 23, 2008
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=majority |justice3-sortcode=1<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--souter-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--thomas-->
+ |justice7-opinion1=concurrence |justice7-sortcode=2<!--ginsburg-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=35
+ |case=Crawford v. Marion County Election Bd.
+ |volume=553
+ |page=181
+ |argue-date=January 9, 2008
+ |decision-date=April 28, 2008
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=plurality |justice2-sortcode=1X<!--stevens-->
+ |justice3-opinion1=concurrence |justice3-sortcode=2<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=dissent1 |justice5-sortcode=4<!--souter-->
+ |justice6-opinion1=joinconcurrence |justice6-sortcode=J2<!--thomas-->
+ |justice7-opinion1=joindissent1 |justice7-sortcode=J4<!--ginsburg-->
+ |justice8-opinion1=dissent2 |justice8-sortcode=4<!--breyer-->
+ |justice9-opinion1=joinconcurrence |justice9-sortcode=J2<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=36
+ |case=Gonzalez v. United States
+ |volume=553
+ |page=242
+ |argue-date=January 8, 2008
+ |decision-date=May 12, 2008
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=concurrence |justice3-sortcode=2<!--scalia-->
+ |justice4-opinion1=majority |justice4-sortcode=1<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--souter-->
+ |justice6-opinion1=dissent |justice6-sortcode=4<!--thomas-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--ginsburg-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=37
+ |case=United States v. Ressam
+ |volume=553
+ |page=272
+ |argue-date=March 25, 2008
+ |decision-date=May 19, 2008
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=majority |justice2-sortcode=1<!--stevens-->
+ |justice3-opinion1=partjoinmajority |justice3-opinion2=joinconcurrence |justice3-sortcode=J1XJ2<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--souter-->
+ |justice6-opinion1=partjoinmajority |justice6-opinion2=concurrence |justice6-sortcode=2J1X<!--thomas-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--ginsburg-->
+ |justice8-opinion1=dissent |justice8-sortcode=4<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=38
+ |case=United States v. Williams
+ |volume=553
+ |page=285
+ |argue-date=October 30, 2007
+ |decision-date=May 19, 2008
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-opinion2=concurrence |justice2-sortcode=2J1<!--stevens-->
+ |justice3-opinion1=majority |justice3-sortcode=1<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=dissent |justice5-sortcode=4<!--souter-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--thomas-->
+ |justice7-opinion1=joindissent |justice7-sortcode=J4<!--ginsburg-->
+ |justice8-opinion1=joinmajority |justice8-opinion2=joinconcurrence |justice8-sortcode=J1J2<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=39
+ |case=Department of Revenue of Ky. v. Davis
+ |volume=553
+ |page=328
+ |argue-date=November 5, 2007
+ |decision-date=May 19, 2008
+ |justice1-opinion1=partjoinmajority |justice1-opinion2=concurrence1 |justice1-sortcode=2J1X<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-opinion2=concurrence2 |justice2-sortcode=2J1<!--stevens-->
+ |justice3-opinion1=partjoinmajority |justice3-opinion2=concurrence3 |justice3-sortcode=2J1<!--scalia-->
+ |justice4-opinion1=dissent1 |justice4-sortcode=4<!--kennedy-->
+ |justice5-opinion1=plurality |justice5-sortcode=1X<!--souter-->
+ |justice6-opinion1=concurrence4 |justice6-sortcode=2<!--thomas-->
+ |justice7-opinion1=partjoinmajority |justice7-sortcode=J1X<!--ginsburg-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--breyer-->
+ |justice9-opinion1=joindissent1 |justice9-opinion2=dissent2 |justice9-sortcode=4J4<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=40
+ |case=United States v. Rodriquez
+ |volume=553
+ |page=377
+ |argue-date=January 15, 2008
+ |decision-date=May 19, 2008
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=joindissent |justice2-sortcode=J4<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=dissent |justice5-sortcode=4<!--souter-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--thomas-->
+ |justice7-opinion1=joindissent |justice7-sortcode=J4<!--ginsburg-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--breyer-->
+ |justice9-opinion1=majority |justice9-sortcode=1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=41
+ |case=Riley v. Kennedy
+ |volume=553
+ |page=406
+ |argue-date=March 24, 2008
+ |decision-date=May 27, 2008
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=dissent |justice2-sortcode=4<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=joindissent |justice5-sortcode=J4<!--souter-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--thomas-->
+ |justice7-opinion1=majority |justice7-sortcode=1<!--ginsburg-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=42
+ |case=CBOCS West, Inc. v. Humphries
+ |volume=553
+ |page=442
+ |argue-date=February 20, 2008
+ |decision-date=May 27, 2008
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joindissent |justice3-sortcode=J4<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--souter-->
+ |justice6-opinion1=dissent |justice6-sortcode=4<!--thomas-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--ginsburg-->
+ |justice8-opinion1=majority |justice8-sortcode=1<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=43
+ |case=Gomez-Perez v. Potter
+ |volume=553
+ |page=474
+ |argue-date=February 19, 2008
+ |decision-date=May 27, 2008
+ |justice1-opinion1=dissent1 |justice1-sortcode=4<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=partjoindissent1 |justice3-opinion2=joindissent2 |justice3-sortcode=J4XJ4<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--souter-->
+ |justice6-opinion1=partjoindissent1 |justice6-opinion2=dissent2 |justice6-sortcode=4J4X<!--thomas-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--ginsburg-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--breyer-->
+ |justice9-opinion1=majority |justice9-sortcode=1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=44
+ |case=United States v. Santos
+ |volume=553
+ |page=507
+ |argue-date=October 3, 2007
+ |decision-date=June 2, 2008
+ |justice1-opinion1=joindissent2 |justice1-sortcode=J4<!--roberts-->
+ |justice2-opinion1=concurrence |justice2-sortcode=2<!--stevens-->
+ |justice3-opinion1=plurality |justice3-sortcode=1X<!--scalia-->
+ |justice4-opinion1=joindissent2 |justice4-sortcode=J4<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--souter-->
+ |justice6-opinion1=partjoinmajority |justice6-sortcode=J1X<!--thomas-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--ginsburg-->
+ |justice8-opinion1=dissent1 |justice8-opinion2=joindissent2 |justice8-sortcode=4J4<!--breyer-->
+ |justice9-opinion1=dissent2 |justice9-sortcode=4<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=45
+ |case=Regalado Cuellar v. United States
+ |volume=553
+ |page=550
+ |argue-date=February 25, 2008
+ |decision-date=June 2, 2008
+ |justice1-opinion1=joinmajority |justice1-opinion2=joinconcurrence |justice1-sortcode=J1J2<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-opinion2=joinconcurrence |justice4-sortcode=J1J2<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--souter-->
+ |justice6-opinion1=majority |justice6-sortcode=1<!--thomas-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--ginsburg-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-opinion2=concurrence |justice9-sortcode=2J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=46
+ |case=Richlin Security Service Co. v. Chertoff
+ |volume=553
+ |page=571
+ |argue-date=March 19, 2008
+ |decision-date=June 2, 2008
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=partjoinmajority |justice3-sortcode=J1X<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--souter-->
+ |justice6-opinion1=partjoinmajority |justice6-sortcode=J1X<!--thomas-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--ginsburg-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--breyer-->
+ |justice9-opinion1=majority |justice9-sortcode=1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=47
+ |case=Engquist v. Oregon Dept. of Agriculture
+ |volume=553
+ |page=591
+ |argue-date=April 21, 2008
+ |decision-date=June 9, 2008
+ |justice1-opinion1=majority |justice1-sortcode=1<!--roberts-->
+ |justice2-opinion1=dissent |justice2-sortcode=4<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=joindissent |justice5-sortcode=J4<!--souter-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--thomas-->
+ |justice7-opinion1=joindissent |justice7-sortcode=J4<!--ginsburg-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=48
+ |case=Quanta Computer, Inc. v. LG Electronics, Inc.
+ |volume=553
+ |page=617
+ |argue-date=January 16, 2008
+ |decision-date=June 9, 2008
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--souter-->
+ |justice6-opinion1=majority |justice6-sortcode=1<!--thomas-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--ginsburg-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=49
+ |case=Bridge v. Phoenix Bond & Indemnity Co.
+ |volume=553
+ |page=639
+ |argue-date=April 14, 2008
+ |decision-date=June 9, 2008
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--souter-->
+ |justice6-opinion1=majority |justice6-sortcode=1<!--thomas-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--ginsburg-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=50
+ |case=Allison Engine Co. v. United States ex rel. Sanders
+ |volume=553
+ |page=662
+ |argue-date=February 26, 2008
+ |decision-date=June 9, 2008
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--souter-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--thomas-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--ginsburg-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--breyer-->
+ |justice9-opinion1=majority |justice9-sortcode=1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=51
+ |case=Munaf v. Geren
+ |volume=553
+ |page=674
+ |argue-date=March 25, 2008
+ |decision-date=June 12, 2008
+ |justice1-opinion1=majority |justice1-sortcode=1<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-opinion2=concurrence |justice5-sortcode=2J1<!--souter-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--thomas-->
+ |justice7-opinion1=joinmajority |justice7-opinion2=joinconcurrence |justice7-sortcode=J1J2<!--ginsburg-->
+ |justice8-opinion1=joinmajority |justice8-opinion2=joinconcurrence |justice8-sortcode=J1J2<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=52
+ |case=Irizarry v. United States
+ |volume=553
+ |page=708
+ |argue-date=April 15, 2008
+ |decision-date=June 12, 2008
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=majority |justice2-sortcode=1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--scalia-->
+ |justice4-opinion1=joindissent |justice4-sortcode=J4<!--kennedy-->
+ |justice5-opinion1=joindissent |justice5-sortcode=J4<!--souter-->
+ |justice6-opinion1=joinmajority |justice6-opinion2=concurrence |justice6-sortcode=2J1<!--thomas-->
+ |justice7-opinion1=joindissent |justice7-sortcode=J4<!--ginsburg-->
+ |justice8-opinion1=dissent |justice8-sortcode=4<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=53
+ |case=Boumediene v. Bush
+ |volume=553
+ |page=723
+ |argue-date=December 5, 2007
+ |decision-date=June 12, 2008
+ |justice1-opinion1=dissent1 |justice1-opinion2=joindissent2 |justice1-sortcode=4J4<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joindissent1 |justice3-opinion2=dissent2 |justice3-sortcode=4J4<!--scalia-->
+ |justice4-opinion1=majority |justice4-sortcode=1<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-opinion2=concurrence |justice5-sortcode=2J1<!--souter-->
+ |justice6-opinion1=joindissent1 |justice6-opinion2=joindissent2 |justice6-sortcode=J4J4<!--thomas-->
+ |justice7-opinion1=joinmajority |justice7-opinion2=joinconcurrence |justice7-sortcode=J1J2<!--ginsburg-->
+ |justice8-opinion1=joinmajority |justice8-opinion2=joinconcurrence |justice8-sortcode=J1J2<!--breyer-->
+ |justice9-opinion1=joindissent1 |justice9-opinion2=joindissent2 |justice9-sortcode=J4J4<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=54
+ |case=Republic of Philippines v. Pimentel
+ |volume=553
+ |page=851
+ |argue-date=March 17, 2008
+ |decision-date=June 12, 2008
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=partjoinmajority |justice2-opinion2=concurrencedissent1 |justice2-sortcode=3J1X<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--scalia-->
+ |justice4-opinion1=majority |justice4-sortcode=1<!--kennedy-->
+ |justice5-opinion1=partjoinmajority |justice5-opinion2=concurrencedissent2 |justice5-sortcode=3J1X<!--souter-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--thomas-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--ginsburg-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=55
+ |case=Taylor v. Sturgell
+ |volume=553
+ |page=880
+ |argue-date=April 16, 2008
+ |decision-date=June 12, 2008
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--souter-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--thomas-->
+ |justice7-opinion1=majority |justice7-sortcode=1<!--ginsburg-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=56
+ |case=Dada v. Mukasey
+ |volume=554
+ |page=1
+ |argue-date=January 7, 2008
+ |decision-date=June 16, 2008
+ |justice1-opinion1=joindissent1 |justice1-sortcode=J4<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=dissent1 |justice3-sortcode=4<!--scalia-->
+ |justice4-opinion1=majority |justice4-sortcode=1<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--souter-->
+ |justice6-opinion1=joindissent1 |justice6-sortcode=J4<!--thomas-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--ginsburg-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--breyer-->
+ |justice9-opinion1=dissent2 |justice9-sortcode=4<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=57
+ |case=Florida Dept. of Revenue v. Piccadilly Cafeterias, Inc.
+ |volume=554
+ |page=33
+ |argue-date=March 26, 2008
+ |decision-date=June 16, 2008
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=joindissent |justice2-sortcode=J4<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--souter-->
+ |justice6-opinion1=majority |justice6-sortcode=1<!--thomas-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--ginsburg-->
+ |justice8-opinion1=dissent |justice8-sortcode=4<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=58
+ |case=Chamber of Commerce of United States v. Brown
+ |volume=554
+ |page=60
+ |argue-date=March 19, 2008
+ |decision-date=June 19, 2008
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=majority |justice2-sortcode=1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--souter-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--thomas-->
+ |justice7-opinion1=joindissent |justice7-sortcode=J4<!--ginsburg-->
+ |justice8-opinion1=dissent |justice8-sortcode=4<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=59
+ |case=Meacham v. Knolls Atomic Power Laboratory
+ |volume=554
+ |page=84
+ |argue-date=April 23, 2008
+ |decision-date=June 19, 2008
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=concurrence |justice3-sortcode=2<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=majority |justice5-sortcode=1<!--souter-->
+ |justice6-opinion1=partjoinmajority |justice6-opinion2=concurrencedissent |justice6-sortcode=3J1X<!--thomas-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--ginsburg-->
+ |justice8-opinion1=didnotparticipate |justice8-sortcode=X<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=60
+ |case=Metropolitan Life Ins. Co. v. Glenn
+ |volume=554
+ |page=105
+ |argue-date=April 23, 2008
+ |decision-date=June 19, 2008
+ |justice1-opinion1=partjoinmajority |justice1-opinion2=concurrence |justice1-sortcode=2J1X<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=dissent |justice3-sortcode=4<!--scalia-->
+ |justice4-opinion1=concurrencedissent |justice4-sortcode=3<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--souter-->
+ |justice6-opinion1=joindissent |justice6-sortcode=J4<!--thomas-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--ginsburg-->
+ |justice8-opinion1=majority |justice8-sortcode=1<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=61
+ |case=Kentucky Retirement Systems v. EEOC
+ |volume=554
+ |page=135
+ |argue-date=January 9, 2008
+ |decision-date=June 19, 2008
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joindissent |justice3-sortcode=J4<!--scalia-->
+ |justice4-opinion1=dissent |justice4-sortcode=4<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--souter-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--thomas-->
+ |justice7-opinion1=joindissent |justice7-sortcode=J4<!--ginsburg-->
+ |justice8-opinion1=majority |justice8-sortcode=1<!--breyer-->
+ |justice9-opinion1=joindissent |justice9-sortcode=J4<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=62
+ |case=Indiana v. Edwards
+ |volume=554
+ |page=164
+ |argue-date=March 26, 2008
+ |decision-date=June 19, 2008
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=dissent |justice3-sortcode=4<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--souter-->
+ |justice6-opinion1=joindissent |justice6-sortcode=J4<!--thomas-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--ginsburg-->
+ |justice8-opinion1=majority |justice8-sortcode=1<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=63
+ |case=Rothgery v. Gillespie County
+ |volume=554
+ |page=191
+ |argue-date=March 17, 2008
+ |decision-date=June 23, 2008
+ |justice1-opinion1=joinmajority |justice1-opinion2=concurrence1 |justice1-opinion3=joinconcurrence2 |justice1-sortcode=2J1J2<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-opinion2=joinconcurrence1 |justice3-opinion3=joinconcurrence2 |justice3-sortcode=J1J2J2<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=majority |justice5-sortcode=1<!--souter-->
+ |justice6-opinion1=dissent |justice6-sortcode=4<!--thomas-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--ginsburg-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-opinion2=concurrence2 |justice9-sortcode=2J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=64
+ |case=Greenlaw v. United States
+ |volume=554
+ |page=237
+ |argue-date=April 15, 2008
+ |decision-date=June 23, 2008
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=joindissent |justice2-sortcode=J4<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--souter-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--thomas-->
+ |justice7-opinion1=majority |justice7-sortcode=1<!--ginsburg-->
+ |justice8-opinion1=concurrence |justice8-opinion2=partjoindissent |justice8-sortcode=2J4X<!--breyer-->
+ |justice9-opinion1=dissent |justice9-sortcode=4<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=65
+ |case=Sprint Communications Co. v. APCC Services, Inc.
+ |volume=554
+ |page=269
+ |argue-date=April 21, 2008
+ |decision-date=June 23, 2008
+ |justice1-opinion1=dissent |justice1-sortcode=4<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joindissent |justice3-sortcode=J4<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--souter-->
+ |justice6-opinion1=joindissent |justice6-sortcode=J4<!--thomas-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--ginsburg-->
+ |justice8-opinion1=majority |justice8-sortcode=1<!--breyer-->
+ |justice9-opinion1=joindissent |justice9-sortcode=J4<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=66
+ |case=Plains Commerce Bank v. Long Family Land and Cattle Co., Inc.
+ |volume=554
+ |page=316
+ |argue-date=April 14, 2008
+ |decision-date=June 25, 2008
+ |justice1-opinion1=majority |justice1-sortcode=1<!--roberts-->
+ |justice2-opinion1=partjoinmajority |justice2-opinion2=joinconcurrencedissent |justice2-sortcode=J1XJ3<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=partjoinmajority |justice5-opinion2=joinconcurrencedissent |justice5-sortcode=J1XJ3<!--souter-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--thomas-->
+ |justice7-opinion1=partjoinmajority |justice7-opinion2=concurrencedissent |justice7-sortcode=3J1X<!--ginsburg-->
+ |justice8-opinion1=partjoinmajority |justice8-opinion2=joinconcurrencedissent |justice8-sortcode=J1XJ3<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=67
+ |case=Giles v. California
+ |volume=554
+ |page=353
+ |argue-date=April 22, 2008
+ |decision-date=June 25, 2008
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=joindissent |justice2-sortcode=J4<!--stevens-->
+ |justice3-opinion1=plurality |justice3-sortcode=1X<!--scalia-->
+ |justice4-opinion1=joindissent |justice4-sortcode=J4<!--kennedy-->
+ |justice5-opinion1=partjoinmajority |justice5-opinion2=concurrence1 |justice5-sortcode=2J1X<!--souter-->
+ |justice6-opinion1=joinmajority |justice6-opinion2=concurrence2 |justice6-sortcode=2J1<!--thomas-->
+ |justice7-opinion1=partjoinmajority |justice7-opinion2=joinconcurrence1 |justice7-sortcode=J1XJ2<!--ginsburg-->
+ |justice8-opinion1=dissent |justice8-sortcode=4<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-opinion2=concurrence3 |justice9-sortcode=2J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=68
+ |case=Kennedy v. Louisiana
+ |volume=554
+ |page=407
+ |argue-date=April 16, 2008
+ |decision-date=June 25, 2008
+ |justice1-opinion1=joindissent |justice1-sortcode=J4<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joindissent |justice3-sortcode=J4<!--scalia-->
+ |justice4-opinion1=majority |justice4-sortcode=1<!--kennedy-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--souter-->
+ |justice6-opinion1=joindissent |justice6-sortcode=J4<!--thomas-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--ginsburg-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--breyer-->
+ |justice9-opinion1=dissent |justice9-sortcode=4<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=69
+ |case=Exxon Shipping Co. v. Baker
+ |volume=554
+ |page=471
+ |argue-date=February 27, 2008
+ |decision-date=June 25, 2008
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=partjoinmajority |justice2-opinion2=concurrencedissent1 |justice2-sortcode=3J1X<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-opinion2=concurrence |justice3-sortcode=2J1<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=majority |justice5-sortcode=1<!--souter-->
+ |justice6-opinion1=joinmajority |justice6-opinion2=joinconcurrence |justice6-sortcode=J1J2<!--thomas-->
+ |justice7-opinion1=partjoinmajority |justice7-opinion2=concurrencedissent2 |justice7-sortcode=3J1X<!--ginsburg-->
+ |justice8-opinion1=partjoinmajority |justice8-opinion2=concurrencedissent3 |justice8-sortcode=3J1X<!--breyer-->
+ |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=70
+ |case-article=Morgan Stanley Capital Group Inc. v. Public Util. Dist. No. 1 of Snohomish Cty.
+ |case-display=Morgan Stanley Cap. Group v. Pub. Util. Dist. #1 of Snohomish Cty.
+ |volume=554
+ |page=527
+ |decision-date=June 26, 2008
+ |justice1-opinion1=didnotparticipate |justice1-sortcode=X<!--roberts-->
+ |justice2-opinion1=dissent |justice2-sortcode=4<!--stevens-->
+ |justice3-opinion1=majority |justice3-sortcode=1<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=joindissent |justice5-sortcode=J4<!--souter-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--thomas-->
+ |justice7-opinion1=partjoinmajority |justice7-opinion2=concurrence |justice7-sortcode=2J1X<!--ginsburg-->
+ |justice8-opinion1=didnotparticipate |justice8-sortcode=X<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=71
+ |case=District of Columbia v. Heller
+ |volume=554
+ |page=570
+ |argue-date=March 18, 2008
+ |decision-date=June 26, 2008
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=dissent1 |justice2-opinion2=joindissent2 |justice2-sortcode=4J4<!--stevens-->
+ |justice3-opinion1=majority |justice3-sortcode=1<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=joindissent1 |justice5-opinion2=joindissent2 |justice5-sortcode=J4J4<!--souter-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--thomas-->
+ |justice7-opinion1=joindissent1 |justice7-opinion2=joindissent2 |justice7-sortcode=J4J4<!--ginsburg-->
+ |justice8-opinion1=joindissent1 |justice8-opinion2=dissent2 |justice8-sortcode=4J4<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=72
+ |case=Davis v. Federal Election Comm’n
+ |volume=554
+ |page=724
+ |argue-date=April 22, 2008
+ |decision-date=June 26, 2008
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=partjoinmajority |justice2-opinion2=concurrencedissent1 |justice2-sortcode=3J1X<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=partjoinmajority |justice5-opinion2=partjoinconcurrencedissent1 |justice5-sortcode=J1XJ3X<!--souter-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--thomas-->
+ |justice7-opinion1=partjoinmajority |justice7-opinion2=partjoinconcurrencedissent1 |justice7-opinion3=concurrencedissent2 |justice7-sortcode=3J1XJ3X<!--ginsburg-->
+ |justice8-opinion1=partjoinmajority |justice8-opinion2=partjoinconcurrencedissent1 |justice8-opinion3=joinconcurrencedissent2 |justice8-sortcode=J1XJ3J3X<!--breyer-->
+ |justice9-opinion1=majority |justice9-sortcode=1<!--alito-->
+}}
+{{SCOTUS-termlist-entry
+ |#=73
+ |case-article=2007 term per curiam opinions of the Supreme Court of the United States#Medellín v. Texas
+ |case-display=Medellín v. Texas
+ |volume=554
+ |page=759
+ |decision-date=August 5, 2008
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=dissent1 |justice2-sortcode=4<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--scalia-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--kennedy-->
+ |justice5-opinion1=dissent2 |justice5-sortcode=4<!--souter-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--thomas-->
+ |justice7-opinion1=dissent3 |justice7-sortcode=4<!--ginsburg-->
+ |justice8-opinion1=dissent4 |justice8-sortcode=4<!--breyer-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--alito-->
+}}
+{{SCOTUS-termlist-end|Roberts|Stevens|Scalia|Kennedy|Souter|Thomas|Ginsburg|Breyer|Alito}}
+
+==2007 term membership and statistics==
+This was the third term of Chief Justice Roberts' tenure and the second full term with the same membership.
+
+{{SCOTUS-termlist-statistics
+ |CJ-first=John |CJ-last=Roberts |CJ-POTUSfirst=George W. |CJ-POTUSlast=Bush |CJ-date=September 29, 2005
+ |CJ-agreeing=64 |CJ-participated=71 |CJ-majority=8 |CJ-concurrence=5 |CJ-concurrencedissent=0 |CJ-dissent=4
+
+ |AJ1-first=John Paul |AJ1-last=Stevens |AJ1-POTUSfirst=Gerald |AJ1-POTUSlast=Ford |AJ1-date=December 19, 1975
+ |AJ1-agreeing=54 |AJ1-participated=73 |AJ1-majority=7 |AJ1-concurrence=8 |AJ1-concurrencedissent=4 |AJ1-dissent=9
+
+ |AJ2-first=Antonin |AJ2-last=Scalia |AJ2-POTUSfirst=Ronald |AJ2-POTUSlast=Reagan |AJ2-date=September 26, 1986
+ |AJ2-agreeing=60 |AJ2-participated=73 |AJ2-majority=8 |AJ2-concurrence=10 |AJ2-concurrencedissent=0 |AJ2-dissent=6
+
+ |AJ3-first=Anthony |AJ3-last=Kennedy |AJ3-POTUSfirst=Ronald |AJ3-POTUSlast=Reagan |AJ3-date=February 18, 1988
+ |AJ3-agreeing=62 |AJ3-participated=72 |AJ3-majority=7 |AJ3-concurrence=1 |AJ3-concurrencedissent=1 |AJ3-dissent=3
+
+ |AJ4-first=David |AJ4-last=Souter |AJ4-POTUSfirst=George H. W. |AJ4-POTUSlast=Bush |AJ4-date=October 9, 1990
+ |AJ4-agreeing=56 |AJ4-participated=73 |AJ4-majority=7 |AJ4-concurrence=4 |AJ4-concurrencedissent=1 |AJ4-dissent=4
+
+ |AJ5-first=Clarence |AJ5-last=Thomas |AJ5-POTUSfirst=George H. W. |AJ5-POTUSlast=Bush |AJ5-date=October 23, 1991
+ |AJ5-agreeing=56 |AJ5-participated=73 |AJ5-majority=7 |AJ5-concurrence=7 |AJ5-concurrencedissent=1 |AJ5-dissent=9
+
+ |AJ6-first=Ruth Bader |AJ6-last=Ginsburg |AJ6-POTUSfirst=Bill |AJ6-POTUSlast=Clinton |AJ6-date=August 10, 1993
+ |AJ6-agreeing=55 |AJ6-participated=73 |AJ6-majority=8 |AJ6-concurrence=4 |AJ6-concurrencedissent=3 |AJ6-dissent=4
+
+ |AJ7-first=Stephen |AJ7-last=Breyer |AJ7-POTUSfirst=Bill |AJ7-POTUSlast=Clinton |AJ7-date=August 3, 1994
+ |AJ7-agreeing=53 |AJ7-participated=69 |AJ7-majority=8 |AJ7-concurrence=2 |AJ7-concurrencedissent=1 |AJ7-dissent=12
+
+ |AJ8-first=Samuel |AJ8-last=Alito |AJ8-POTUSfirst=George W. |AJ8-POTUSlast=Bush |AJ8-date=January 31, 2006
+ |AJ8-agreeing=60 |AJ8-participated=72 |AJ8-majority=7 |AJ8-concurrence=4 |AJ8-concurrencedissent=0 |AJ8-dissent=8
+}}
+
+==Notes==
+{{Reflist}}
+
+==References==
+{{refbegin}}
+*{{citation |url=http://www.supremecourt.gov/opinions/slipopinion/07 |title=2007 Term Opinions of the Court |publisher=[[Supreme Court of the United States]] |accessdate=March 20, 2010}}.
+{{refend}}
+
+==Further reading==
+*[http://www.nytimes.com/2008/05/23/us/23memo.html ''At Supreme Court, 5-to-4 Rulings Fade — but Why?''], [[Linda Greenhouse]].  ''[[The New York Times]]'', May 23, 2008.
+
+{{SCOTUSterm2006-present|term=2007|startdate=October 1, 2007|enddate=September 30, 2008}}
+{{SCOTUScaselists}}
+
+{{DEFAULTSORT:2007 Term Opinions Of The Supreme Court Of The United States}}
+
+[[Category:Lists of United States Supreme Court opinions by term]]
+[[Category:Lists of 2007 term United States Supreme Court opinions| ]]

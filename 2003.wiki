@@ -1,0 +1,1420 @@
+[[Image:Seal of the United States Supreme Court.svg|150px|right]]
+The 2003 term of the [[Supreme Court of the United States]] began October 6, 2003 and concluded October 3, 2004. The table illustrates which opinion was filed by each justice in each case and which justices joined each opinion.
+
+==Table key==
+{{SCOTUStablekey}}
+
+==2003 term opinions==
+{{SCOTUS-termlist-start|Rehnquist|Stevens|O'Connor|Scalia|Kennedy|Souter|Thomas|Ginsburg|Breyer}}
+{{SCOTUS-termlist-entry
+ |#=1
+ |case=Yarborough v. Gentry
+ |volume=540
+ |page=1
+ |argue-date=
+ |decision-date=October 20, 2003
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--souter-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=2
+ |case=Mitchell v. Esparza
+ |volume=540
+ |page=12
+ |argue-date=
+ |decision-date=November 3, 2003
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--souter-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=3
+ |case=Barnhart v. Thomas
+ |volume=540
+ |page=20
+ |argue-date=October 13, 2003
+ |decision-date=November 12, 2003
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=majority |justice4-sortcode=1<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--souter-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=4
+ |case=United States v. Banks
+ |volume=540
+ |page=31
+ |argue-date=October 15, 2003
+ |decision-date=December 2, 2003
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=majority |justice6-sortcode=1<!--souter-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=5
+ |case=Raytheon Co. v. Hernandez
+ |volume=540
+ |page=44
+ |argue-date=October 8, 2003
+ |decision-date=December 2, 2003
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=didnotparticipate |justice6-sortcode=X<!--souter-->
+ |justice7-opinion1=majority |justice7-sortcode=1<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=6
+ |case=Virginia v. Maryland
+ |volume=540
+ |page=56
+ |argue-date=October 7, 2003
+ |decision-date=December 9, 2003
+ |justice1-opinion1=majority |justice1-sortcode=1<!--rehnquist-->
+ |justice2-opinion1=dissent1 |justice2-opinion2=joindissent2 |justice2-sortcode=4J4<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--scalia-->
+ |justice5-opinion1=joindissent1 |justice5-opinion2=dissent2 |justice5-sortcode=4J4<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--souter-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=7
+ |case=McConnell v. Federal Election Commission
+ |volume=540
+ |page=93
+ |argue-date=September 8, 2003
+ |decision-date=December 10, 2003
+ |note=<ref>The Court in ''McConnell'' issued three majority opinions, each dealing with separate issues of the case: one jointly authored by Justices Stevens and O'Connor, one authored by Chief Justice Rehnquist, and one authored by Justice Breyer.</ref>
+ |justice1-opinion1=majority2 |justice1-opinion2=joinconcurrencedissent2 |justice1-opinion3=dissent1 |justice1-sortcode=1J34<!--rehnquist-->
+ |justice2-opinion1=majority1  |justice2-opinion2=partjoinmajority2 |justice2-opinion3=joinmajority3 |justice2-opinion4=dissent2 |justice2-sortcode=14J1J1X<!--stevens-->
+ |justice3-opinion1=majority1 |justice3-opinion2=joinmajority2 |justice3-opinion3=joinmajority3 |justice3-sortcode=1J1J1<!--o'connor-->
+ |justice4-opinion1=joinmajority2 |justice4-opinion2=concurrencedissent1 |justice4-opinion3=partjoinconcurrencedissent2 |justice4-opinion4=partjoinconcurrencedissent3 |justice4-opinion5=joindissent1 |justice4-sortcode=3J1J3XJ3XJ4<!--scalia-->
+ |justice5-opinion1=joinmajority2 |justice5-opinion2=concurrencedissent2 |justice5-opinion3=joindissent1 |justice5-sortcode=3J1J4<!--kennedy-->
+ |justice6-opinion1=joinmajority1 |justice6-opinion2=joinmajority2 |justice6-opinion3=joinmajority3 |justice6-sortcode=J1J1J1<!--souter-->
+ |justice7-opinion1=partjoinmajority2 |justice7-opinion2=partjoinconcurrencedissent2 |justice7-opinion3=concurrencedissent3 |justice7-sortcode=J1<!--thomas-->
+ |justice8-opinion1=joinmajority1 |justice8-opinion2=partjoinmajority2 |justice8-opinion3=joinmajority3 |justice8-opinion4=joindissent2 |justice8-sortcode=J1J1J1XJ4<!--ginsburg-->
+ |justice9-opinion1=joinmajority1 |justice9-opinion2=partjoinmajority2 |justice9-opinion3=majority3 |justice9-opinion4=joindissent2 |justice9-sortcode=1J1J1XJ4<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=8
+ |case=Maryland v. Pringle
+ |volume=540
+ |page=366
+ |argue-date=November 3, 2003
+ |decision-date=December 15, 2003
+ |justice1-opinion1=majority |justice1-sortcode=1<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--souter-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=9
+ |case=Castro v. United States
+ |volume=540
+ |page=375
+ |argue-date=October 15, 2003
+ |decision-date=December 15, 2003
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=partjoinmajority |justice4-opinion2=concurrence |justice4-sortcode=2J1X<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--souter-->
+ |justice7-opinion1=partjoinmajority |justice7-opinion2=joinconcurrence |justice7-sortcode=J1XJ2<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=majority |justice9-sortcode=1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=10
+ |case=SEC v. Edwards
+ |volume=540
+ |page=389
+ |argue-date=November 4, 2003
+ |decision-date=January 13, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=majority |justice3-sortcode=1<!--o'connor-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--souter-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=11
+ |case=Verizon Comm., Inc. v. Law Offices of Curtis V. Trinko, LLP
+ |volume=540
+ |page=398
+ |argue-date=October 14, 2003
+ |decision-date=January 13, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=concurrence |justice2-sortcode=2<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=majority |justice4-sortcode=1<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=joinconcurrence |justice6-sortcode=J2<!--souter-->
+ |justice7-opinion1=joinconcurrence |justice7-sortcode=J2<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=12
+ |case=Illinois v. Lidster
+ |volume=540
+ |page=419
+ |argue-date=November 5, 2003
+ |decision-date=January 13, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=partjoinmajority |justice2-opinion2=concurrencedissent |justice2-sortcode=3J1X<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=partjoinmajority |justice6-opinion2=joinconcurrencedissent |justice6-sortcode=J1XJ3<!--souter-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--thomas-->
+ |justice8-opinion1=partjoinmajority |justice8-opinion2=joinconcurrencedissent |justice8-sortcode=J1XJ3<!--ginsburg-->
+ |justice9-opinion1=majority |justice9-sortcode=1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=13
+ |case=Frew v. Hawkins
+ |volume=540
+ |page=431
+ |argue-date=October 7, 2003
+ |decision-date=January 14, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--scalia-->
+ |justice5-opinion1=majority |justice5-sortcode=1<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--souter-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=14
+ |case=Kontrick v. Ryan
+ |volume=540
+ |page=443
+ |argue-date=November 3, 2003
+ |decision-date=January 14, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--souter-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--thomas-->
+ |justice8-opinion1=majority |justice8-sortcode=1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=15
+ |case=Alaska Dep't of Envtl. Conservation v. EPA
+ |volume=540
+ |page=461
+ |argue-date=October 8, 2003
+ |decision-date=January 21, 2004
+ |justice1-opinion1=joindissent |justice1-sortcode=J4<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=joindissent |justice4-sortcode=J4<!--scalia-->
+ |justice5-opinion1=dissent |justice5-sortcode=4<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--souter-->
+ |justice7-opinion1=joindissent |justice7-sortcode=J4<!--thomas-->
+ |justice8-opinion1=majority |justice8-sortcode=1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=16
+ |case=Fellers v. United States
+ |volume=540
+ |page=519
+ |argue-date=December 10, 2003
+ |decision-date=January 26, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=majority |justice3-sortcode=1<!--o'connor-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--souter-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=17
+ |case=Lamie v. United States Trustee
+ |volume=540
+ |page=526
+ |argue-date=November 10, 2003
+ |decision-date=January 26, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=concurrence |justice2-sortcode=2<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=partjoinmajority |justice4-sortcode=J1X<!--scalia-->
+ |justice5-opinion1=majority |justice5-sortcode=1<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-opinion2=joinconcurrence |justice6-sortcode=J1J2<!--souter-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-opinion2=joinconcurrence |justice9-sortcode=J1J2<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=18
+ |case=Illinois v. Fisher
+ |volume=540
+ |page=544
+ |argue-date=
+ |decision-date=February 23, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=concurrence |justice2-sortcode=2<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--souter-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=19
+ |case=Groh v. Ramirez
+ |volume=540
+ |page=551
+ |argue-date=November 4, 2003
+ |decision-date=February 24, 2004
+ |justice1-opinion1=joindissent1 |justice1-opinion2=partjoindissent2 |justice1-sortcode=J4J4X<!--rehnquist-->
+ |justice2-opinion1=majority |justice2-sortcode=1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=joindissent2 |justice4-sortcode=J4<!--scalia-->
+ |justice5-opinion1=dissent1 |justice5-sortcode=4<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--souter-->
+ |justice7-opinion1=dissent2 |justice7-sortcode=4<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=20
+ |case=General Dynamics Land System v. Cline
+ |volume=540
+ |page=581
+ |argue-date=November 12, 2003
+ |decision-date=February 24, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=dissent1 |justice4-sortcode=4<!--scalia-->
+ |justice5-opinion1=joindissent2 |justice5-sortcode=J4<!--kennedy-->
+ |justice6-opinion1=majority |justice6-sortcode=1<!--souter-->
+ |justice7-opinion1=dissent2 |justice7-sortcode=4<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=21
+ |case=Doe v. Chao
+ |volume=540
+ |page=614
+ |argue-date=December 3, 2003
+ |decision-date=February 24, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=joindissent1 |justice2-sortcode=J4<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=partjoinmajority |justice4-sortcode=J1X<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=majority |justice6-sortcode=1<!--souter-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--thomas-->
+ |justice8-opinion1=dissent1 |justice8-sortcode=4<!--ginsburg-->
+ |justice9-opinion1=joindissent1 |justice9-opinion2=dissent2 |justice9-sortcode=4J4<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=22
+ |case=Olympic Airways v. Husain
+ |volume=540
+ |page=644
+ |argue-date=November 12, 2003
+ |decision-date=February 24, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=partjoindissent |justice3-sortcode=J4X<!--o'connor-->
+ |justice4-opinion1=dissent |justice4-sortcode=4<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--souter-->
+ |justice7-opinion1=majority |justice7-sortcode=1<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=23
+ |case=Banks v. Dretke
+ |volume=540
+ |page=668
+ |argue-date=December 8, 2003
+ |decision-date=February 24, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=partjoinmajority |justice4-opinion2=joinconcurrencedissent |justice4-sortcode=J1XJ3<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--souter-->
+ |justice7-opinion1=partjoinmajority |justice7-opinion2=concurrencedissent |justice7-sortcode=3J1X<!--thomas-->
+ |justice8-opinion1=majority |justice8-sortcode=1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=24
+ |case=Locke v. Davey
+ |volume=540
+ |page=712
+ |argue-date=December 2, 2003
+ |decision-date=February 25, 2004
+ |justice1-opinion1=majority |justice1-sortcode=1<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=dissent1 |justice4-sortcode=4<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--souter-->
+ |justice7-opinion1=joindissent1 |justice7-opinion2=dissent2 |justice7-sortcode=4J4<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=25
+ |case=United States Postal Serv. v. Flamingo Indus. (USA) Ltd.
+ |volume=540
+ |page=736
+ |argue-date=December 1, 2003
+ |decision-date=February 25, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--scalia-->
+ |justice5-opinion1=majority |justice5-sortcode=1<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--souter-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=26
+ |case=Muhammad v. Close
+ |volume=540
+ |page=749
+ |argue-date=December 1, 2003
+ |decision-date=February 25, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--souter-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=27
+ |case=Raymond B. Yates, M.D., P.C. Profit Sharing Plan v. Hendon
+ |volume=541
+ |page=1
+ |argue-date=January 13, 2004
+ |decision-date=March 2, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=concurrence1 |justice4-sortcode=2<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--souter-->
+ |justice7-opinion1=concurrence2 |justice7-sortcode=2<!--thomas-->
+ |justice8-opinion1=majority |justice8-sortcode=1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=28
+ |case=Baldwin v. Reese
+ |volume=541
+ |page=27
+ |argue-date=December 8, 2003
+ |decision-date=March 2, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=dissent |justice2-sortcode=4<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--souter-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=majority |justice9-sortcode=1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=29
+ |case=Crawford v. Washington
+ |volume=541
+ |page=36
+ |argue-date=November 10, 2003
+ |decision-date=March 8, 2004
+ |justice1-opinion1=concurrence |justice1-sortcode=2<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinconcurrence |justice3-sortcode=J2<!--o'connor-->
+ |justice4-opinion1=majority |justice4-sortcode=1<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--souter-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=30
+ |case=Iowa v. Tovar
+ |volume=541
+ |page=77
+ |argue-date=January 21, 2004
+ |decision-date=March 8, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--souter-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--thomas-->
+ |justice8-opinion1=majority |justice8-sortcode=1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=31
+ |case=S. Fla. Water Mgmt. Dist. v. Miccosukee Tribe of Indians
+ |volume=541
+ |page=95
+ |argue-date=January 14, 2004
+ |decision-date=March 23, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=majority |justice3-sortcode=1<!--o'connor-->
+ |justice4-opinion1=partjoinmajority |justice4-opinion2=concurrencedissent |justice4-sortcode=3J1X<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--souter-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=32
+ |case=United States v. Galletti
+ |volume=541
+ |page=114
+ |argue-date=January 12, 2004
+ |decision-date=March 23, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--souter-->
+ |justice7-opinion1=majority |justice7-sortcode=1<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=33
+ |case=Nixon v. Missouri Municipal League
+ |volume=541
+ |page=125
+ |argue-date=January 12, 2004
+ |decision-date=March 24, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=dissent |justice2-sortcode=4<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=concurrence |justice4-sortcode=2<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=majority |justice6-sortcode=1<!--souter-->
+ |justice7-opinion1=joinconcurrence |justice7-sortcode=J2<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=34
+ |case=United States v. Flores-Montano
+ |volume=541
+ |page=149
+ |argue-date=February 25, 2004
+ |decision-date=March 30, 2004
+ |justice1-opinion1=majority |justice1-sortcode=1<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--souter-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-opinion2=concurrence |justice9-sortcode=2J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=35
+ |case=Nat'l Archives & Records Admin. v. Favish
+ |volume=541
+ |page=157
+ |argue-date=December 3, 2003
+ |decision-date=March 30, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--scalia-->
+ |justice5-opinion1=majority |justice5-sortcode=1<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--souter-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=36
+ |case=BedRoc Ltd., LLC v. United States
+ |volume=541
+ |page=176
+ |argue-date=January 20, 2004
+ |decision-date=March 31, 2004
+ |justice1-opinion1=plurality |justice1-sortcode=1X<!--rehnquist-->
+ |justice2-opinion1=dissent |justice2-sortcode=4<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=joindissent |justice6-sortcode=J4<!--souter-->
+ |justice7-opinion1=concurrence |justice7-sortcode=2<!--thomas-->
+ |justice8-opinion1=joindissent |justice8-sortcode=J4<!--ginsburg-->
+ |justice9-opinion1=joinconcurrence |justice9-sortcode=J2<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=37
+ |case=United States v. Lara
+ |volume=541
+ |page=193
+ |argue-date=January 21, 2004
+ |decision-date=April 19, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-opinion2=concurrence1 |justice2-sortcode=2J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=joindissent |justice4-sortcode=J4<!--scalia-->
+ |justice5-opinion1=concurrence2 |justice5-sortcode=2<!--kennedy-->
+ |justice6-opinion1=dissent |justice6-sortcode=4<!--souter-->
+ |justice7-opinion1=concurrence3 |justice7-sortcode=2<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=majority |justice9-sortcode=1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=38
+ |case=Household Credit Servs. v. Pfennig
+ |volume=541
+ |page=232
+ |argue-date=February 23, 2004
+ |decision-date=April 21, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--souter-->
+ |justice7-opinion1=majority |justice7-sortcode=1<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=39
+ |case=Engine Mfrs. Ass'n v. S. Coast Air Quality Mgmt. Dist.
+ |volume=541
+ |page=246
+ |argue-date=January 14, 2004
+ |decision-date=April 28, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=majority |justice4-sortcode=1<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=dissent |justice6-sortcode=4<!--souter-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=40
+ |case=Vieth v. Jubelirer
+ |volume=541
+ |page=267
+ |argue-date=December 10, 2003
+ |decision-date=April 28, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=dissent1 |justice2-sortcode=4<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=plurality |justice4-sortcode=1X<!--scalia-->
+ |justice5-opinion1=concurrence |justice5-sortcode=2<!--kennedy-->
+ |justice6-opinion1=dissent2 |justice6-sortcode=4<!--souter-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--thomas-->
+ |justice8-opinion1=joindissent2 |justice8-sortcode=J4<!--ginsburg-->
+ |justice9-opinion1=dissent3 |justice9-sortcode=4<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=41
+ |case=Jones v. R. R. Donnelley & Sons Co.
+ |volume=541
+ |page=369
+ |argue-date=February 24, 2004
+ |decision-date=May 3, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=majority |justice2-sortcode=1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--souter-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=42
+ |case=Dretke v. Haley
+ |volume=541
+ |page=386
+ |argue-date=March 2, 2004
+ |decision-date=May 3, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=dissent1 |justice2-sortcode=4<!--stevens-->
+ |justice3-opinion1=majority |justice3-sortcode=1<!--o'connor-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--scalia-->
+ |justice5-opinion1=joindissent1 |justice5-opinion2=dissent2 |justice5-sortcode=4J4<!--kennedy-->
+ |justice6-opinion1=joindissent1 |justice6-sortcode=J4<!--souter-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=43
+ |case=Scarborough v. Principi
+ |volume=541
+ |page=401
+ |argue-date=February 23, 2004
+ |decision-date=May 3, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=joindissent |justice4-sortcode=J4<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--souter-->
+ |justice7-opinion1=dissent |justice7-sortcode=4<!--thomas-->
+ |justice8-opinion1=majority |justice8-sortcode=1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=44
+ |case=Johnson v. California
+ |volume=541
+ |page=428
+ |argue-date=March 30, 2004
+ |decision-date=May 3, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--souter-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=45
+ |case=Middleton v. McNeil
+ |volume=541
+ |page=433
+ |argue-date=
+ |decision-date=May 3, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--souter-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=46
+ |case=Tennessee Student Assistance Corp. v. Hood
+ |volume=541
+ |page=440
+ |argue-date=March 1, 2004
+ |decision-date=May 17, 2004
+ |justice1-opinion1=majority |justice1-sortcode=1<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=joindissent |justice4-sortcode=J4<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-opinion2=concurrence |justice6-sortcode=2J1<!--souter-->
+ |justice7-opinion1=dissent |justice7-sortcode=4<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-opinion2=joinconcurrence |justice8-sortcode=J1J2<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=47
+ |case=Till v. SCS Credit Corp.
+ |volume=541
+ |page=465
+ |argue-date=December 2, 2003
+ |decision-date=May 17, 2004
+ |justice1-opinion1=joindissent |justice1-sortcode=J4<!--rehnquist-->
+ |justice2-opinion1=plurality |justice2-sortcode=1X<!--stevens-->
+ |justice3-opinion1=joindissent |justice3-sortcode=J4<!--o'connor-->
+ |justice4-opinion1=dissent |justice4-sortcode=4<!--scalia-->
+ |justice5-opinion1=joindissent |justice5-sortcode=J4<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--souter-->
+ |justice7-opinion1=concurrence |justice7-sortcode=2<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=48
+ |case=Tennessee v. Lane
+ |volume=541
+ |page=509
+ |argue-date=January 13, 2004
+ |decision-date=May 17, 2004
+ |justice1-opinion1=dissent1 |justice1-sortcode=4<!--rehnquist-->
+ |justice2-opinion1=majority |justice2-sortcode=1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=dissent2 |justice4-sortcode=4<!--scalia-->
+ |justice5-opinion1=joindissent1 |justice5-sortcode=J4<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-opinion2=concurrence1 |justice6-opinion3=joinconcurrence2 |justice6-sortcode=2J1J2<!--souter-->
+ |justice7-opinion1=joindissent1 |justice7-opinion2=dissent3 |justice7-sortcode=4J4<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-opinion2=joinconcurrence1 |justice8-opinion3=concurrence2 |justice8-sortcode=2J1J2<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-opinion2=joinconcurrence2 |justice9-sortcode=J1J2<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=49
+ |case=Grupo Dataflux v. Atlas Global Group, L.P.
+ |volume=541
+ |page=567
+ |argue-date=March 3, 2004
+ |decision-date=May 17, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=joindissent |justice2-sortcode=J4<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=majority |justice4-sortcode=1<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=joindissent |justice6-sortcode=J4<!--souter-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--thomas-->
+ |justice8-opinion1=dissent |justice8-sortcode=4<!--ginsburg-->
+ |justice9-opinion1=joindissent |justice9-sortcode=J4<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=50
+ |case=Sabri v. United States
+ |volume=541
+ |page=600
+ |argue-date=March 3, 2004
+ |decision-date=May 17, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=partjoinmajority |justice4-opinion2=joinconcurrence1 |justice4-sortcode=J1XJ2<!--scalia-->
+ |justice5-opinion1=partjoinmajority |justice5-opinion2=concurrence1 |justice5-sortcode=2J1X<!--kennedy-->
+ |justice6-opinion1=majority |justice6-sortcode=1<!--souter-->
+ |justice7-opinion1=concurrence2 |justice7-sortcode=2<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=51
+ |case=Thornton v. United States
+ |volume=541
+ |page=615
+ |argue-date=March 31, 2004
+ |decision-date=May 24, 2004
+ |justice1-opinion1=plurality |justice1-sortcode=1X<!--rehnquist-->
+ |justice2-opinion1=dissent |justice2-sortcode=4<!--stevens-->
+ |justice3-opinion1=partjoinmajority |justice3-opinion2=concurrence1 |justice3-sortcode=2J1X<!--o'connor-->
+ |justice4-opinion1=concurrence2 |justice4-sortcode=2<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=joindissent |justice6-sortcode=J4<!--souter-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--thomas-->
+ |justice8-opinion1=joinconcurrence2 |justice8-sortcode=J2<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=52
+ |case=Nelson v. Campbell
+ |volume=541
+ |page=637
+ |argue-date=March 29, 2004
+ |decision-date=May 24, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=majority |justice3-sortcode=1<!--o'connor-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--souter-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=53
+ |case=Yarborough v. Alvarado
+ |volume=541
+ |page=652
+ |argue-date=March 1, 2004
+ |decision-date=June 1, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=joindissent |justice2-sortcode=J4<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-opinion2=concurrence |justice3-sortcode=2J1<!--o'connor-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--scalia-->
+ |justice5-opinion1=majority |justice5-sortcode=1<!--kennedy-->
+ |justice6-opinion1=joindissent |justice6-sortcode=J4<!--souter-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--thomas-->
+ |justice8-opinion1=joindissent |justice8-sortcode=J4<!--ginsburg-->
+ |justice9-opinion1=dissent |justice9-sortcode=4<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=54
+ |case=Republic of Austria v. Altmann
+ |volume=541
+ |page=677
+ |argue-date=February 25, 2004
+ |decision-date=June 7, 2004
+ |justice1-opinion1=joindissent |justice1-sortcode=J4<!--rehnquist-->
+ |justice2-opinion1=majority |justice2-sortcode=1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=joinmajority |justice4-opinion2=concurrence1 |justice4-sortcode=2J1<!--scalia-->
+ |justice5-opinion1=dissent |justice5-sortcode=4<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-opinion2=joinconcurrence2 |justice6-sortcode=J1J2<!--souter-->
+ |justice7-opinion1=joindissent |justice7-sortcode=J4<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-opinion2=concurrence2 |justice9-sortcode=2J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=55
+ |case=Central Laborers' Pension Fund v. Heinz
+ |volume=541
+ |page=739
+ |argue-date=April 19, 2004
+ |decision-date=June 7, 2004
+ |justice1-opinion1=joinmajority |justice1-opinion2=joinconcurrence |justice1-sortcode=J1J2<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-opinion2=joinconcurrence |justice3-sortcode=J1J2<!--o'connor-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=majority |justice6-sortcode=1<!--souter-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-opinion2=joinconcurrence |justice8-sortcode=J1J2<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-opinion2=concurrence |justice9-sortcode=2J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=56
+ |case=DOT v. Pub. Citizen
+ |volume=541
+ |page=752
+ |argue-date=April 21, 2004
+ |decision-date=June 7, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--souter-->
+ |justice7-opinion1=majority |justice7-sortcode=1<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=57
+ |case=City of Littleton v. Z. J. Gifts D-4, L.L.C.
+ |volume=541
+ |page=774
+ |argue-date=March 24, 2004
+ |decision-date=June 7, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=partjoinmajority |justice2-opinion2=concurrence1 |justice2-sortcode=2J1X<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=concurrence2 |justice4-sortcode=2<!--scalia-->
+ |justice5-opinion1=partjoinmajority |justice5-opinion2=joinconcurrence3 |justice5-sortcode=J1XJ2<!--kennedy-->
+ |justice6-opinion1=partjoinmajority |justice6-opinion2=concurrence3 |justice6-sortcode=2J1X<!--souter-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=majority |justice9-sortcode=1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=58
+ |case=Elk Grove Unified Sch. Dist. v. Newdow
+ |volume=542
+ |page=1
+ |argue-date=March 24, 2004
+ |decision-date=June 14, 2004
+ |justice1-opinion1=concurrence1 |justice1-sortcode=2<!--rehnquist-->
+ |justice2-opinion1=majority |justice2-sortcode=1<!--stevens-->
+ |justice3-opinion1=joinconcurrence1 |justice3-opinion2=concurrence2 |justice3-sortcode=2J2<!--o'connor-->
+ |justice4-opinion1=didnotparticipate |justice4-sortcode=X<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--souter-->
+ |justice7-opinion1=partjoinconcurrence1 |justice7-opinion2=concurrence3 |justice7-sortcode=2J2X<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=59
+ |case=Norton v. S. Utah Wilderness Alliance
+ |volume=542
+ |page=55
+ |argue-date=March 29, 2004
+ |decision-date=June 14, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=majority |justice4-sortcode=1<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--souter-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=60
+ |case=United States v. Dominguez Benitez
+ |volume=542
+ |page=74
+ |argue-date=April 21, 2004
+ |decision-date=June 14, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=concurrence |justice4-sortcode=2<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=majority |justice6-sortcode=1<!--souter-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=61
+ |case=Hibbs v. Winn
+ |volume=542
+ |page=88
+ |argue-date=January 20, 2004
+ |decision-date=June 14, 2004
+ |justice1-opinion1=joindissent |justice1-sortcode=J4<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-opinion2=concurrence |justice2-sortcode=2J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=joindissent |justice4-sortcode=J4<!--scalia-->
+ |justice5-opinion1=dissent |justice5-sortcode=4<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--souter-->
+ |justice7-opinion1=joindissent |justice7-sortcode=J4<!--thomas-->
+ |justice8-opinion1=majority |justice8-sortcode=1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=62
+ |case=Pennsylvania State Police v. Suders
+ |volume=542
+ |page=129
+ |argue-date=March 31, 2004
+ |decision-date=June 14, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--souter-->
+ |justice7-opinion1=dissent |justice7-sortcode=4<!--thomas-->
+ |justice8-opinion1=majority |justice8-sortcode=1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=63
+ |case=F. Hoffmann-La Roche Ltd v. Empagran S. A.
+ |volume=542
+ |page=155
+ |argue-date=April 26, 2004
+ |decision-date=June 14, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=didnotparticipate |justice3-sortcode=X<!--o'connor-->
+ |justice4-opinion1=concurrence |justice4-sortcode=2<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--souter-->
+ |justice7-opinion1=joinconcurrence |justice7-sortcode=J2<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=majority |justice9-sortcode=1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=64
+ |case=Hiibel v. Sixth Judicial District Court of Nevada
+ |volume=542
+ |page=177
+ |argue-date=March 22, 2004
+ |decision-date=June 21, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=dissent1 |justice2-sortcode=4<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--scalia-->
+ |justice5-opinion1=majority |justice5-sortcode=1<!--kennedy-->
+ |justice6-opinion1=joindissent2 |justice6-sortcode=J4<!--souter-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--thomas-->
+ |justice8-opinion1=joindissent2 |justice8-sortcode=J4<!--ginsburg-->
+ |justice9-opinion1=dissent2 |justice9-sortcode=4<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=65
+ |case=Aetna Health Inc. v. Davila
+ |volume=542
+ |page=200
+ |argue-date=March 23, 2004
+ |decision-date=June 21, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--souter-->
+ |justice7-opinion1=majority |justice7-sortcode=1<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-opinion2=concurrence |justice8-sortcode=2J1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-opinion2=joinconcurrence |justice9-sortcode=J1J2<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=66
+ |case=Pliler v. Ford
+ |volume=542
+ |page=225
+ |argue-date=April 26, 2004
+ |decision-date=June 21, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=concurrence1 |justice2-sortcode=2<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-opinion2=concurrence2 |justice3-sortcode=2J1<!--o'connor-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=joinconcurrence1 |justice6-sortcode=J2<!--souter-->
+ |justice7-opinion1=majority |justice7-sortcode=1<!--thomas-->
+ |justice8-opinion1=dissent1 |justice8-sortcode=4<!--ginsburg-->
+ |justice9-opinion1=joindissent1 |justice9-opinion2=dissent2 |justice9-sortcode=4J4<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=67
+ |case=Intel Corp. v. Advanced Micro Devices, Inc.
+ |volume=542
+ |page=241
+ |argue-date=April 20, 2004
+ |decision-date=June 21, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=didnotparticipate |justice3-sortcode=X<!--o'connor-->
+ |justice4-opinion1=concurrence |justice4-sortcode=2<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--souter-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--thomas-->
+ |justice8-opinion1=majority |justice8-sortcode=1<!--ginsburg-->
+ |justice9-opinion1=dissent |justice9-sortcode=4<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=68
+ |case=Tennard v. Dretke
+ |volume=542
+ |page=274
+ |argue-date=March 22, 2004
+ |decision-date=June 24, 2004
+ |justice1-opinion1=dissent1 |justice1-sortcode=4<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=majority |justice3-sortcode=1<!--o'connor-->
+ |justice4-opinion1=dissent2 |justice4-sortcode=4<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--souter-->
+ |justice7-opinion1=dissent3 |justice7-sortcode=4<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=69
+ |case=Blakely v. Washington
+ |volume=542
+ |page=296
+ |argue-date=March 23, 2004
+ |decision-date=June 24, 2004
+ |justice1-opinion1=partjoindissent1 |justice1-sortcode=J4X<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=dissent1 |justice3-opinion2=joindissent3 |justice3-sortcode=4J4<!--o'connor-->
+ |justice4-opinion1=majority |justice4-sortcode=1<!--scalia-->
+ |justice5-opinion1=partjoindissent1 |justice5-opinion2=dissent2 |justice5-sortcode=4J4X<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--souter-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=joindissent1 |justice9-opinion2=joindissent2 |justice9-opinion3=dissent3 |justice9-sortcode=4J4J4<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=70
+ |case=Schriro v. Summerlin
+ |volume=542
+ |page=348
+ |argue-date=April 19, 2004
+ |decision-date=June 24, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=joindissent |justice2-sortcode=J4<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=majority |justice4-sortcode=1<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=joindissent |justice6-sortcode=J4<!--souter-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--thomas-->
+ |justice8-opinion1=joindissent |justice8-sortcode=J4<!--ginsburg-->
+ |justice9-opinion1=dissent |justice9-sortcode=4<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=71
+ |case=Cheney v. United States District Court
+ |volume=542
+ |page=367
+ |argue-date=April 27, 2004
+ |decision-date=June 24, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-opinion2=concurrence |justice2-sortcode=2J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=partjoinmajority |justice4-opinion2=joinconcurrencedissent |justice4-sortcode=J1XJ3<!--scalia-->
+ |justice5-opinion1=majority |justice5-sortcode=1<!--kennedy-->
+ |justice6-opinion1=joindissent |justice6-sortcode=J4<!--souter-->
+ |justice7-opinion1=partjoinmajority |justice7-opinion2=concurrencedissent |justice7-sortcode=3J1X<!--thomas-->
+ |justice8-opinion1=dissent |justice8-sortcode=4<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=72
+ |case=Beard v. Banks
+ |volume=542
+ |page=406
+ |argue-date=February 24, 2004
+ |decision-date=June 24, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=dissent1 |justice2-sortcode=4<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=joindissent1 |justice6-opinion2=dissent2 |justice6-sortcode=4J4<!--souter-->
+ |justice7-opinion1=majority |justice7-sortcode=1<!--thomas-->
+ |justice8-opinion1=joindissent1 |justice8-opinion2=joindissent2 |justice8-sortcode=J4J4<!--ginsburg-->
+ |justice9-opinion1=joindissent1 |justice9-sortcode=J4<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=73
+ |case=Rumsfeld v. Padilla
+ |volume=542
+ |page=426
+ |argue-date=April 28, 2004
+ |decision-date=June 28, 2004
+ |justice1-opinion1=majority |justice1-sortcode=1<!--rehnquist-->
+ |justice2-opinion1=dissent |justice2-sortcode=4<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-opinion2=joinconcurrence |justice3-sortcode=J1J2<!--o'connor-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-opinion2=concurrence |justice5-sortcode=2J1<!--kennedy-->
+ |justice6-opinion1=joindissent |justice6-sortcode=J4<!--souter-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--thomas-->
+ |justice8-opinion1=joindissent |justice8-sortcode=J4<!--ginsburg-->
+ |justice9-opinion1=joindissent |justice9-sortcode=J4<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=74
+ |case=Rasul v. Bush
+ |volume=542
+ |page=466
+ |argue-date=April 20, 2004
+ |decision-date=June 28, 2004
+ |justice1-opinion1=joindissent |justice1-sortcode=J4<!--rehnquist-->
+ |justice2-opinion1=majority |justice2-sortcode=1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=dissent |justice4-sortcode=4<!--scalia-->
+ |justice5-opinion1=concurrence |justice5-sortcode=2<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--souter-->
+ |justice7-opinion1=joindissent |justice7-sortcode=J4<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=75
+ |case=Hamdi v. Rumsfeld
+ |volume=542
+ |page=507
+ |argue-date=April 28, 2004
+ |decision-date=June 28, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=joindissent1 |justice2-sortcode=J4<!--stevens-->
+ |justice3-opinion1=plurality |justice3-sortcode=1X<!--o'connor-->
+ |justice4-opinion1=dissent1 |justice4-sortcode=4<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=concurrencedissent |justice6-sortcode=3<!--souter-->
+ |justice7-opinion1=dissent2 |justice7-sortcode=4<!--thomas-->
+ |justice8-opinion1=joinconcurrencedissent |justice8-sortcode=J3<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=76
+ |case=Missouri v. Seibert
+ |volume=542
+ |page=600
+ |argue-date=December 9, 2003
+ |decision-date=June 28, 2004
+ |justice1-opinion1=joindissent |justice1-sortcode=J4<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=dissent |justice3-sortcode=4<!--o'connor-->
+ |justice4-opinion1=joindissent |justice4-sortcode=J4<!--scalia-->
+ |justice5-opinion1=concurrence1 |justice5-sortcode=2<!--kennedy-->
+ |justice6-opinion1=plurality |justice6-sortcode=1X<!--souter-->
+ |justice7-opinion1=joindissent |justice7-sortcode=J4<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-opinion2=concurrence2 |justice9-sortcode=2J1<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=77
+ |case=United States v. Patane
+ |volume=542
+ |page=630
+ |argue-date=December 9, 2003
+ |decision-date=June 28, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=joindissent1 |justice2-sortcode=J4<!--stevens-->
+ |justice3-opinion1=joinconcurrence |justice3-sortcode=J2<!--o'connor-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--scalia-->
+ |justice5-opinion1=concurrence |justice5-sortcode=2<!--kennedy-->
+ |justice6-opinion1=dissent1 |justice6-sortcode=4<!--souter-->
+ |justice7-opinion1=plurality |justice7-sortcode=1X<!--thomas-->
+ |justice8-opinion1=joindissent1 |justice8-sortcode=J4<!--ginsburg-->
+ |justice9-opinion1=dissent2 |justice9-sortcode=4<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=78
+ |case=Holland v. Jackson
+ |volume=542
+ |page=649
+ |argue-date=
+ |decision-date=June 28, 2004
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--rehnquist-->
+ |justice2-opinion1=dissentwithoutopinion |justice2-sortcode=4X<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=dissentwithoutopinion |justice6-sortcode=4X<!--souter-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--thomas-->
+ |justice8-opinion1=dissentwithoutopinion |justice8-sortcode=4X<!--ginsburg-->
+ |justice9-opinion1=dissentwithoutopinion |justice9-sortcode=4X<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=79
+ |case=Ashcroft v. American Civil Liberties Union
+ |volume=542
+ |page=656
+ |argue-date=March 2, 2004
+ |decision-date=June 29, 2004
+ |justice1-opinion1=joindissent2 |justice1-sortcode=J4<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-opinion2=concurrence |justice2-sortcode=2J1<!--stevens-->
+ |justice3-opinion1=joindissent2 |justice3-sortcode=J4<!--o'connor-->
+ |justice4-opinion1=dissent1 |justice4-sortcode=4<!--scalia-->
+ |justice5-opinion1=majority |justice5-sortcode=1<!--kennedy-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--souter-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--thomas-->
+ |justice8-opinion1=joinmajority |justice8-opinion2=joinconcurrence |justice8-sortcode=J1J2<!--ginsburg-->
+ |justice9-opinion1=dissent2 |justice9-sortcode=4<!--breyer-->
+}}
+{{SCOTUS-termlist-entry
+ |#=80
+ |case=Sosa v. Alvarez-Machain
+ |volume=542
+ |page=692
+ |argue-date=March 30, 2004
+ |decision-date=June 29, 2004
+ |justice1-opinion1=partjoinmajority |justice1-opinion2=joinconcurrence1 |justice1-sortcode=J1XJ2<!--rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--stevens-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--o'connor-->
+ |justice4-opinion1=partjoinmajority |justice4-opinion2=concurrence1 |justice4-sortcode=2J1X<!--scalia-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--kennedy-->
+ |justice6-opinion1=majority |justice6-sortcode=1<!--souter-->
+ |justice7-opinion1=partjoinmajority |justice7-opinion2=joinconcurrence1 |justice7-sortcode=J1XJ2<!--thomas-->
+ |justice8-opinion1=partjoinmajority |justice8-opinion2=concurrence2 |justice8-sortcode=2J1X<!--ginsburg-->
+ |justice9-opinion1=partjoinmajority |justice9-opinion2=joinconcurrence2 |justice9-opinion3=concurrence3 |justice9-sortcode=2J1XJ2<!--breyer-->
+}}
+{{SCOTUS-termlist-end|Rehnquist|Stevens|O'Connor|Scalia|Kennedy|Souter|Thomas|Ginsburg|Breyer}}
+
+==2003 term membership and statistics==
+This was the eighteenth term of Chief Justice Rehnquist's tenure, and the tenth consecutive term in which the Court's membership had not changed.
+
+{{SCOTUS-termlist-statistics
+ |CJ-first=William |CJ-last=Rehnquist |CJ-POTUSfirst=Richard |CJ-POTUSlast=Nixon |CJ-date=January 7, 1972 |CJ-confirmation-note=<ref>Rehnquist was initially appointed by Nixon to the Court as an Associate Justice. He was subsequently appointed to serve as Chief Justice by President [[Ronald Reagan]] and confirmed in that position September 26, 1986.</ref>
+ |CJ-agreeing=68 |CJ-participated=80 |CJ-majority=9 |CJ-concurrence=2 |CJ-concurrencedissent=0 |CJ-dissent=3
+
+ |AJ1-first=John Paul |AJ1-last=Stevens |AJ1-POTUSfirst=Gerald |AJ1-POTUSlast=Ford |AJ1-date=December 19, 1975
+ |AJ1-agreeing=61 |AJ1-participated=80 |AJ1-majority=8 |AJ1-concurrence=9 |AJ1-concurrencedissent=1 |AJ1-dissent=11
+
+ |AJ2-first=Sandra Day |AJ2-last=O'Connor |AJ2-POTUSfirst=Ronald |AJ2-POTUSlast=Reagan |AJ2-date=September 25, 1981
+ |AJ2-agreeing=73 |AJ2-participated=78 |AJ2-majority=8 |AJ2-concurrence=4 |AJ2-concurrencedissent=0 |AJ2-dissent=2
+
+ |AJ3-first=Antonin |AJ3-last=Scalia |AJ3-POTUSfirst=Ronald |AJ3-POTUSlast=Reagan |AJ3-date=September 26, 1986
+ |AJ3-agreeing=59 |AJ3-participated=79 |AJ3-majority=9 |AJ3-concurrence=10 |AJ3-concurrencedissent=2 |AJ3-dissent=9
+
+ |AJ4-first=Anthony |AJ4-last=Kennedy |AJ4-POTUSfirst=Ronald |AJ4-POTUSlast=Reagan |AJ4-date=February 18, 1988
+ |AJ4-agreeing=69 |AJ4-participated=80 |AJ4-majority=8 |AJ4-concurrence=7 |AJ4-concurrencedissent=1 |AJ4-dissent=7
+
+ |AJ5-first=David |AJ5-last=Souter |AJ5-POTUSfirst=George H. W. |AJ5-POTUSlast=Bush |AJ5-date=October 9, 1990
+ |AJ5-agreeing=62 |AJ5-participated=79 |AJ5-majority=9 |AJ5-concurrence=3 |AJ5-concurrencedissent=1 |AJ5-dissent=5
+
+ |AJ6-first=Clarence |AJ6-last=Thomas |AJ6-POTUSfirst=George H. W. |AJ6-POTUSlast=Bush |AJ6-date=October 23, 1991
+ |AJ6-agreeing=63 |AJ6-participated=80 |AJ6-majority=9 |AJ6-concurrence=6 |AJ6-concurrencedissent=3 |AJ6-dissent=9
+
+ |AJ7-first=Ruth Bader |AJ7-last=Ginsburg |AJ7-POTUSfirst=Bill |AJ7-POTUSlast=Clinton |AJ7-date=August 10, 1993
+ |AJ7-agreeing=64 |AJ7-participated=80 |AJ7-majority=9 |AJ7-concurrence=3 |AJ7-concurrencedissent=0 |AJ7-dissent=4
+
+ |AJ8-first=Stephen |AJ8-last=Breyer |AJ8-POTUSfirst=Bill |AJ8-POTUSlast=Clinton |AJ8-date=August 3, 1994
+ |AJ8-agreeing=63 |AJ8-participated=78 |AJ8-majority=7 |AJ8-concurrence=5 |AJ8-concurrencedissent=0 |AJ8-dissent=10
+ |majoritytotaloverride=75
+ |totaldiscrepancynote=Individual opinion counts will not match the Court's totals; Stevens and O'Connor's jointly authored opinion for the Court in ''[[McConnell v. FEC]]'' is counted separately for both justices but counted only once in the Court's totals.
+}}
+
+==Notes==
+{{reflist}}
+
+==References==
+{{refbegin}}
+*{{citeweb |title=2003 Term Opinions of the Court |publisher=Supreme Court of the United States |accessdate=2010-07-07 |url=http://www.supremecourt.gov/opinions/slipopinions.aspx?Term=03 }}
+{{refend}}
+
+
+{{SCOTUSterm1994-2004|term=2003|startdate=October 6, 2003|enddate=October 3, 2004}}
+{{SCOTUScaselists}}
+
+
+[[Category:Lists of United States Supreme Court opinions by term]]
+[[Category:Lists of 2003 term United States Supreme Court opinions| ]]
